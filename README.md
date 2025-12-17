@@ -24,7 +24,7 @@ An comprehensive post-installation configuration tool for Ubuntu servers, stream
 Run the setup script on your server:
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/felipefontoura/ubinkaze/stable/boot.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/HiImYeda/ubinkaze/stable/boot.sh)
 ```
 
 ## 🐋 Docker Swarm
@@ -58,8 +58,8 @@ Ubinkaze is released under the [MIT License](https://opensource.org/licenses/MIT
 
 ## 📫 Contact
 
-- Project Link: [https://github.com/felipefontoura/ubinkaze](https://github.com/felipefontoura/ubinkaze)
-- Issue Tracker: [GitHub Issues](https://github.com/felipefontoura/ubinkaze/issues)
+- Project Link: [https://github.com/HiImYeda/ubinkaze](https://github.com/HiImYeda/ubinkaze)
+- Issue Tracker: [GitHub Issues](https://github.com/HiImYeda/ubinkaze/issues)
 
 ## 🙏 Acknowledgments
 
